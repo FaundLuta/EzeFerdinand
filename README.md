@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/FaundLuta">
-    <img src="https://img.shields.io/badge/GitHub-FaundLuta-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-FaundLuta-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -39,7 +39,6 @@ For me, software development is more than writing code; it's about innovation, c
 - 🎓 Computer Science | Federal University of Technology, Owerri.
 - 📍 Nigeria.
 
-
 > "Great software starts with curiosity, grows through persistence, and succeeds through innovation."
 
 ---
@@ -62,14 +61,15 @@ For me, software development is more than writing code; it's about innovation, c
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Data Technologies
+### 🤖 Artificial Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Systems-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
 </p>
 
 ### 🔧 Developer Tools
@@ -77,7 +77,7 @@ For me, software development is more than writing code; it's about innovation, c
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
@@ -100,28 +100,173 @@ For me, software development is more than writing code; it's about innovation, c
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-### 1. SentimentIQ 🤖
+<table>
+<tr>
+<td width="50%">
 
-An AI-powered sentiment analysis platform designed to understand and interpret human emotions, opinions, and communication patterns through text.
+### 🤖 SentimentIQ
 
-**Key Features:**
+An AI-powered sentiment analysis application that understands human emotions, opinions, and communication patterns through text.
+
+**Features:**
 - Multidimensional sentiment analysis.
-- Emotion detection and tone analysis.
-- Statistical profiling and interactive visualizations.
+- Emotion detection.
+- Tone and attitude analysis.
+- Statistical profiling.
+- Interactive visualizations.
 - Gibberish detection.
-- Real-time analytical dashboard.
+- Real-time dashboard.
 
 **Tech Stack:**
 
 `Python` `Flask` `Groq API` `LLaMA 3.3 70B` `JavaScript` `Chart.js`
 
-### 2. Bible Desktop Application 📖
+<p align="center">
+  <a href="https://github.com/FaundLuta/sentiment_IQ">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-A desktop application built around making Bible access and study more convenient through a dedicated digital experience.
+</td>
+<td width="50%">
 
-**Tech Stack:** Desktop Application Development.
+### 📖 KJV Bible Desktop App
+
+A desktop Bible application designed to provide a convenient and engaging Bible study experience.
+
+**Features:**
+- Bible verse search.
+- Favorite verses and bookmarks.
+- Personal study notes.
+- Multiple reading themes.
+- Adjustable font sizes.
+
+**Tech Stack:**
+
+`Python` `Tkinter`
+
+<p align="center">
+  <a href="https://github.com/FaundLuta/kjv-bible-app">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎬 Media Downloader
+
+A desktop application for downloading videos and extracting audio from supported media platforms.
+
+**Features:**
+- Multiple video quality options.
+- MP3 audio extraction.
+- Thumbnail previews.
+- Download history.
+- Modern dark interface.
+
+**Tech Stack:**
+
+`Python` `CustomTkinter` `yt-dlp`
+
+<p align="center">
+  <a href="https://github.com/FaundLuta/media-downloader">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 🎓 Git Learn
+
+An interactive web application designed to help developers understand and master Git and GitHub through guided lessons.
+
+**Features:**
+- 14 guided lessons.
+- Interactive progress tracking.
+- One-click command copying.
+- Visual progress indicators.
+- Beginner-friendly learning experience.
+
+**Tech Stack:**
+
+`HTML` `CSS` `JavaScript`
+
+<p align="center">
+  <a href="https://git-learn-lemon.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaundLuta/git-learn">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💧 Water Ledger
+
+A web application project designed around water-related tracking and management.
+
+**Tech Stack:**
+
+Web Development
+
+<p align="center">
+  <a href="https://water-ledger-olive.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaundLuta/Water-ledger">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 💬 Ask Now
+
+An AI-powered workspace built to provide an interactive artificial intelligence experience.
+
+**Features:**
+- AI model selection.
+- Voice input.
+- PDF text extraction.
+- Image input.
+- Session history.
+- Print-to-PDF export.
+
+**Tech Stack:**
+
+`Python` `Flask` `Groq API` `JavaScript`
+
+<p align="center">
+  <a href="https://ask-now-three.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaundLuta/ask-now">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/FaundLuta?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -136,9 +281,22 @@ A desktop application built around making Bible access and study more convenient
   <img width="70%" src="https://streak-stats.demolab.com?user=FaundLuta&theme=tokyonight&hide_border=true" />
 </p>
 
+### 📈 Contribution Activity
+
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FaundLuta&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🎯 Currently Learning & Exploring
+
+- 📱 Mobile Application Development.
+- 🤖 Advanced Artificial Intelligence.
+- 🧠 Machine Learning and Intelligent Systems.
+- 🌐 Modern Web Technologies.
+- ⚡ Building scalable software applications.
+- 🔬 Exploring emerging technologies.
 
 ---
 
@@ -163,9 +321,13 @@ I'm always interested in connecting with developers, exchanging ideas, learning 
 
 ---
 
+## 👀 Profile Visitors
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FaundLuta&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 </p>
+
+---
 
 <h3 align="center">✨ Keep Building. Keep Learning. Keep Innovating. ✨</h3>
 
